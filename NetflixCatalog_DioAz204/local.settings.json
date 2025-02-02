@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+      "CosmosDB_Endpoint": "https://localhost:8081",
+      "CosmosDB_Key": "C2y6yDjf5/R+....==",
+      "CosmosDB_Database": "NetflixCatalog"
+    },
+    "Host": {
+      "CORS": "*"
+    }
+  }
+  
